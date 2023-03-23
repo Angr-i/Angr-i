@@ -23,6 +23,8 @@
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments<br>
-
+<p align="center">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Angri?style=social)](https://twitter.com/Angri50694567)
 [![GitHub followers](https://img.shields.io/github/followers/Angri154?style=social)](https://github.com/Angri154)
