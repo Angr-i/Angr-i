@@ -30,10 +30,7 @@
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :man_technologist: Former Project Lead Intern<br>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Angri?style=social)](https://twitter.com/Angri50694567)
 [![GitHub followers](https://img.shields.io/github/followers/Angri154?style=social)](https://github.com/Angri154)
