@@ -35,6 +35,7 @@
 - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)aga)
 
