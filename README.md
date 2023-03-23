@@ -36,7 +36,4 @@
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-
-.. image:: https://img.shields.io/github/followers/Angri154?style=social
-   :alt: GitHub followers
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Angri154?style=social">
