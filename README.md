@@ -37,5 +37,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Angri50694567)]([https://twitter.com/Angri50694567](https://twitter.com/Angri50694567)) [Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+
