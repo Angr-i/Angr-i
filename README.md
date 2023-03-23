@@ -29,8 +29,7 @@
 
 - :computer: I'm a Fullstack Developer, currently exploring Web3 Space
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern<br>
+- :rocket: Always ready to collaborate for Dev Experiments<br>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Angri?style=social)](https://twitter.com/Angri50694567)
 [![GitHub followers](https://img.shields.io/github/followers/Angri154?style=social)](https://github.com/Angri154)
