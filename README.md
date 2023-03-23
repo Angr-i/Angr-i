@@ -37,5 +37,6 @@
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 
-https://img.shields.io/github/followers/Angri154?style=social
+.. image:: https://img.shields.io/github/followers/Angri154?style=social
+   :alt: GitHub followers
 
