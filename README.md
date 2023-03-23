@@ -24,5 +24,6 @@
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments<br>
 ![Angri github stats](https://github-readme-stats.vercel.app/api?username=Angri154&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br>
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/Angri?style=social)](https://twitter.com/Angri50694567)
 [![GitHub followers](https://img.shields.io/github/followers/Angri154?style=social)](https://github.com/Angri154)
